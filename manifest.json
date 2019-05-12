@@ -1,0 +1,6 @@
+{
+  "name": "Hello World Extension",
+  "description": "This extension show a pop-up with hello world (text and image)",
+  "version": "1.0",
+  "manifest_version": 2
+}
